@@ -1,0 +1,17 @@
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/uninstall.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/cafe_bot_uninstall.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/order.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task1.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task2.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task3.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task4.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task5.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task6.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/task7.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/test.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/edit_cache.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/rebuild_cache.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/list_install_components.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/install.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/install/local.dir
+/home/ayush/Documents/cafeBot_ws/build/cafe_bot/CMakeFiles/install/strip.dir
